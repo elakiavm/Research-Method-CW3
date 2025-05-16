@@ -198,26 +198,5 @@
         "type": "inproceedings",
         "url": "https://doi.org/10.1145/3613904.3642765",
         "year": "2024"
-    },
-    "Zhang2023RecyclableVPB": {
-        "abstract": "This paper develops recyclable vitrimer-based printed circuit boards for sustainable electronics, addressing the challenge of separating electronic components from traditional thermoset-based PCBs. We synthesize novel vitrimer materials with dynamic cross-linking that enables solid stability during operation but can be selectively degraded under controlled conditions. Our approach is experimentally evaluated through the fabrication and testing of functional circuit boards, analyzing electrical performance, thermal stability, and recyclability metrics. The findings demonstrate that vitrimer-based PCBs maintain comparable performance to conventional boards while enabling complete separation of electronic components and substrate materials at end-of-life, with the recovered materials retaining their functional properties for reuse in new boards. This breakthrough technology offers a promising pathway for closing the material loop in electronics manufacturing while maintaining the technical performance required for modern electronic devices.",
-        "author": "Zhang, Zhihan and Biswal, A. K. and Nandi, Ankush and Frost, Kali and Smith, Jake A. and Nguyen, Bichlien H. and Patel, Shwetak N. and Vashisth, Aniruddh and Iyer, Vikram",
-        "journal": "Nature Sustainability",
-        "keywords": "type:vitrimer, printed circuit board, recyclable electronics, sustainable materials, component recovery, circular economy",
-        "title": "Recyclable vitrimer-based printed circuit boards for sustainable electronics",
-        "type": "article",
-        "url": "https://arxiv.org/pdf/2308.12496.pdf",
-        "year": "2023"
-    },
-    "Zocco2024TowardsAT": {
-        "abstract": "The circular economy concept is gaining increasing attention in the healthcare sector as a means to address sustainability challenges. This paper presents a novel approach that integrates thermodynamical deep-learning-vision-based flexible robotic cell systems to support circular healthcare applications. Our methodology incorporates advanced machine learning techniques to process visual data in healthcare environments, aimed at improving resource utilization and reducing waste in medical settings. The system demonstrates how artificial intelligence and robotics can be integrated to support circular economy principles in the healthcare sector, offering promising capabilities for automating medical waste identification, sorting, and processing, potentially transforming how healthcare institutions manage their resources while reducing environmental impact.",
-        "author": "Zocco, Federico and Sleath, Denis M. and Rahimifard, Shahin",
-        "journal": "ArXiv",
-        "keywords": "type:circular economy, healthcare, deep learning, robotics, sustainability, waste management",
-        "title": "Towards a Thermodynamical Deep-Learning-Vision-Based Flexible Robotic Cell for Circular Healthcare",
-        "type": "article",
-        "url": "https://api.semanticscholar.org/CorpusID:267547465",
-        "volume": "abs/2402.05551",
-        "year": "2024"
     }
 };
